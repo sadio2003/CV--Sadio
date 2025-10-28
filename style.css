@@ -399,11 +399,11 @@ body {
     border-radius: 0;
   }
   .sidebar {
-    order: 2;
+    order: 1;
     padding: 1.5rem;
   }
   .main-content {
-    order: 1;
+    order: 2;
     padding: 1.5rem;
   }
   .profile-section {
